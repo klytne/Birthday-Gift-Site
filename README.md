@@ -23,7 +23,7 @@ A delightful and straightforward website, designed to surprise and delight someo
 <h3>What I learnt</h3>
 <ul>
   <li>Image Styling (.hover, border radius, etc)</li>
-  <li>Backgound Color Styling (linear gradient, etc.)</li>
+  <li>Background Color Styling (linear gradient, etc.)</li>
 </ul>
 
 <h2>Acknowledgements</h2>
